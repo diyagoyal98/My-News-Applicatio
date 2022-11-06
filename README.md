@@ -1,7 +1,7 @@
 # My-News-Application
 
 This is the news application made with the help of python and tkinter library and data is fetched form news api.
-It is a simple application which has 3 buttons prev,neext and read more.
+It is a simple application which has 3 buttons prev,next and read more.
 
     Prev button is for going back to the previous news
     Next buttton is for going ahead
